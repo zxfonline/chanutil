@@ -2,8 +2,11 @@
 // Use of this source code is governed by a BSD-style
 // license that can be found in the LICENSE file.
 
-// Package chanutil contains a set of utilities to facilitate
-// the management and use of chan.
+/*
+Package chanutil contains a set of utilities to facilitate
+the management and use of chan.
+*/
+
 package chanutil
 
 import (
